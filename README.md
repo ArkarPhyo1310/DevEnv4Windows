@@ -317,7 +317,6 @@ Download [here](https://download.pytorch.org/libtorch/cpu/libtorch-win-shared-wi
 
 </details>
 
-<br>
 
 ### My Development Packages Directory Structure is as follows:
 
