@@ -31,6 +31,7 @@ In Windows Terminal, change the default profile to **Powershell**. To open the s
 </details>
 
 <br>
+
 In the terminal, type
 
 ```
@@ -270,7 +271,7 @@ You've done setting up OpenCV for Windows. If you have any questions, please ope
 
 ## Download bazel - 5.2.0
 
-- [Here](https://github.com/bazelbuild/bazel/releases/download/5.2.0/bazel-5.2.0-windows-x86_64.exe).
+[Here](https://github.com/bazelbuild/bazel/releases/download/5.2.0/bazel-5.2.0-windows-x86_64.exe).
 
 1. Rename the "**bazel-5.2.0-windows-x86_64.exe**" to "**bazel.exe**".
 2. Move the exe file to under "**D:/Dev_pkgs/bazel/**". 
@@ -303,6 +304,24 @@ bazel --version # bazel 5.2.0
 </details>
 
 <br>
+
+<details><summary> Install Libtorch in Windows </summary>
+
+<br>
+
+Download [here](https://download.pytorch.org/libtorch/cpu/libtorch-win-shared-with-deps-1.12.0%2Bcpu.zip).
+
+> This will download a libtorch CPU version. For CUDA version, please refer to this [page](https://pytorch.org/).
+
+- Extract the zip file.
+
+</details>
+
+<br>
+
+### My Development Packages Directory Structure is as follows:
+
+![dir_tree](./assets/dir_tree.png)
 
 More Features in Future.
 
